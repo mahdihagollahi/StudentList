@@ -1,9 +1,9 @@
 import React from 'react'
-import Checkbox from './Component/Checkbox'
+import Home from './Screen/Home'
 export default function App() {
   return (
     <div>
-      <Checkbox/>
+      <Home/>
     </div>
   )
 }
