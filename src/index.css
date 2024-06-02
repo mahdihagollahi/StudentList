@@ -9,4 +9,17 @@
   align-items: center;
  
 }
+body{
+  background-image: url('./assets/vecteezy_cute-student-characters-are-taking-notes-in-a-notebook-a_.jpg');
+  background-repeat: no-repeat;
+  background-position: fixed ;
+  background-size: 1540px 1730px;
+  /* background-size: 100%; */
+
+}
+
+input{
+  /* color: white; */
+  background-color: white;
+}
 
