@@ -2,8 +2,7 @@
 
 # StudentList
 
-> A loan fund from which people can borrow and receive facilities
-
+> A list can add student delete and Edit and Filter Studen as Skills
 <!-- ![Logo](src/app/assent/Img/userPanel/Logo.png) -->
 ![Logo](https://github.com/mahdihagollahi/StudentList/blob/master/src/assets/Screen/Screenshot%202024-10-04%20at%2023.13.38.png
 )
