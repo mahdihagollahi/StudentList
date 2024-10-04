@@ -1,8 +1,61 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# StudentList
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> A loan fund from which people can borrow and receive facilities
+
+<!-- ![Logo](src/app/assent/Img/userPanel/Logo.png) -->
+![Logo](https://github.com/mahdihagollahi/StudentList/blob/master/src/assets/Screen/Screenshot%202024-10-04%20at%2023.13.38.png
+)
+
+
+
+![Commit Badge](https://img.shields.io/github/commit-activity/y/mahdihagollahi/StudentList)
+
+-  You will add person and deleted
+-  you can filter person as skills
+  <!-- - ⚖️ This project is legal -->
+  <!-- - 🪪 -->
+  <!-- - 🔑 -->
+  <!-- - 🔒 -->
+
+
+
+## Installation
+
+> First, clone the project
+
+```bash
+  git clone https://github.com/mahdihagollahi/StudentList.git
+```
+
+> to run StudentList with npm
+
+```bash
+cd StudentList
+  npm install
+  npm run dev
+```
+
+
+
+
+## Screenshots
+
+
+![App Screenshot](https://github.com/mahdihagollahi/StudentList/blob/master/src/assets/Screen/Screenshot%202024-10-04%20at%2023.01.06.png)
+
+![Commit Badge](https://github.com/mahdihagollahi/StudentList/blob/master/src/assets/Screen/Screenshot%202024-10-04%20at%2023.01.24.png)
+
+![Commit Badge](https://github.com/mahdihagollahi/StudentList/blob/master/src/assets/Screen/Screenshot%202024-10-04%20at%2023.02.23.png)
+
+
+## Support
+
+> For support, email haghollahimahdi@gmail.com or join our Slack channel.
+
+
+## Authors
+
+- [mahdihaghollahi](https://github.com/mahdihagollahi)
+
